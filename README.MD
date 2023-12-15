@@ -7,3 +7,4 @@ Bibliotecas que podem ser usadas diretas, sem transpilação, sem builds, sem tr
 * Moment.js [https://momentjs.com] (Biblioteca para trabalhar com data e hora)
 * Math.js [https://mathjs.org] (Biblioteca para operações matematicas)
 * Dinero.js [https://dinerojs.com] e currency.js [https://currency.js.org] (Bibliotecas para formatação e calculos de moedas)
+* Finantial [https://github.com/lmammino/financial] (Biblioteca para funções financeiras)
